@@ -10,7 +10,7 @@ import {
   StopCountdownButton,
 } from "./styles";
 import { FormProvider, useForm } from "react-hook-form";
-import { CyclesContext } from "@/contexts/CyclesContexts";
+import { CyclesContext } from "../../contexts/CyclesContexts";
 
 const newCycleFormValidationSchema = zod.object({
   task: zod.string().min(1, "Infome a tarefa"),
