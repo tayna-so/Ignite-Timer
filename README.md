@@ -7,8 +7,11 @@ An application of pomodoro counter using ReactJS and TypeScript. <br> Project de
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#what-i-learned">What I Learned</a>
+  <a href="#-what-i-learned">What I Learned</a>
 </p>
+
+![Captura de tela 2024-04-13 161514](https://github.com/tayna-so/Ignite-Timer/assets/50917624/a6fc795e-57e3-4b0f-bef8-2821bb498bd2)
+![Captura de tela 2024-04-13 161541](https://github.com/tayna-so/Ignite-Timer/assets/50917624/b1a9a063-2157-4008-bb2c-d154649a1a85)
 
 <br>
 
@@ -33,6 +36,7 @@ An application of pomodoro counter using ReactJS and TypeScript. <br> Project de
  - Log timer history
  
  - Persist data in local storage
+
 
 ## 🔖 What I Learned
 In this module I have learned to build a complete application with routing and important concepts from the React.
